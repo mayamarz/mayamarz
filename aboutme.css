@@ -1,4 +1,11 @@
-a:link {
+p {
+  color:#333333;
+  font-family:"Courier New";
+  font-size:100%;
+  text-align:center;
+}
+
+  a:link {
 color:#737373;
 text-decoration:none;
 }
