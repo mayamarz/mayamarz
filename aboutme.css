@@ -17,12 +17,12 @@ a:link {
 }
 
 a:hover {
-  color:#000000;
   text-decoration:none;
+  color:#000000;
 }
 
 .navigation {
-  font-family:"Courier New", serif;
+  font-family:"Courier New", serif; /* mess around with alignment??? */
   font-size:24px;
   text-align:center;
 }
