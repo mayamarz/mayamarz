@@ -8,7 +8,8 @@ p {
   font-family:"Courier New";
   font-size:100%;
   text-align:center;
-  margin:100px; /* uhmmm */
+  margin-left:90px; 
+  margin-right:90px;
 }
 
 a:link {
