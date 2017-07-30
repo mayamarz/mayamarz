@@ -6,10 +6,10 @@ body {
 p {
   color:#333333;
   font-family:"Courier New";
-  font-size:100%;
+  font-size:16px;
   text-align:center;
-  margin-left:90px; 
-  margin-right:90px;
+  margin-left:120px; 
+  margin-right:120px;
 }
 
 a:link {
