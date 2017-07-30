@@ -5,9 +5,9 @@ p {
   text-align:center;
 }
 
-  a:link {
-color:#737373;
-text-decoration:none;
+a:link {
+  text-decoration:none;
+  color:#737373;
 }
 
 a:hover {
