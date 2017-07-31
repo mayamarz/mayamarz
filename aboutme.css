@@ -3,6 +3,12 @@ body {
   margin:0;
 }
 
+h1 {
+  color:#333333;
+  font-family:courier new;
+  font-size:250%;
+  text-align:center;
+
 p {
   color:#333333;
   font-family:"Courier New";
