@@ -45,7 +45,7 @@ a:visited {
 .navigation {
   font-family:"Courier New", serif; /* mess around with alignment??? */
   font-size:24px;
-  text-align:center;
+  text-align:left;
   list-style-type: none;
 }
 
