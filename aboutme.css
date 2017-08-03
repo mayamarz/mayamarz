@@ -70,7 +70,10 @@ a:hover, a:active {
 
 .navigation {
   text-align:center;
-  margin: 0px 10px
+}
+
+.navigation a {
+  margin: 0px 10px;
 }
 
 
