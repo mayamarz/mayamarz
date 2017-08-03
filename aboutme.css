@@ -60,6 +60,8 @@ a:link, a:visited {
 
 a:hover, a:active {
     background-color:#fafafa;
+    border:1px solid #999999;
+    color:#999999;
 }
 
 
