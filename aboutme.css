@@ -24,8 +24,8 @@ p {
   font-family:"Courier New",serif;
   font-size:16px;
   text-align:center;
-  margin-left:120px; 
-  margin-right:120px;
+  margin-left:140px; 
+  margin-right:140px;
 }
 
 a:link {
@@ -46,11 +46,22 @@ a:visited {
   color:#737373
 }
 
-.navigation {
-  font-family:"Courier New", serif; /* mess around with alignment??? */
-  font-size:24px;
-  text-align:center;
-  list-style-type: none;
+a:link, a:visited {
+    background-color:#e6e6e6;
+    border:1px solid black;
+    padding:14px 25px;
+    text-align:center;
+    text-decoration:none;
+    font-family:"Courier New",serif;
+    font-size:24px;
+    color:black;
+    display: inline-block;
 }
+
+a:hover, a:active {
+    background-color:white;
+}
+
+
 
 
