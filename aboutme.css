@@ -1,8 +1,8 @@
 body {
   padding:0;
   margin:0;
-  background-color:#ccf5ff;
-  background: linear-gradient(white, #ccf5ff);
+  background:#ccf5ff;
+  background:linear-gradient(white, #ccf5ff);
 }
 
 h1 {
