@@ -45,7 +45,7 @@ a:hover {
 a:visited {
   text-decoration:none;
   background-color:transparent;
-  color:#737373
+  color:#737373;
 }
 
 a:link, a:visited {
@@ -63,9 +63,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color:white; /* #fafafa (old) */
-  border:1px solid #999999;
-  color:#999999;
+  background-color:#737373; /* #fafafa (old) */
 }
 
 .navigation {
