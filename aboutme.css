@@ -74,3 +74,18 @@ a:hover, a:active {
   margin: 0px 10px 20px 10px;
 }
 
+img {
+  display: block;
+  margin:auto; 
+}
+
+table {
+  text-align:center;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
