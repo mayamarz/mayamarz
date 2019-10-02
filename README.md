@@ -1,2 +1,2 @@
 # mayamarz
-~ under construction ~
+! website under construction and renovation !
